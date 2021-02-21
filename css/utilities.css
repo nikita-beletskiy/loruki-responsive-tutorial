@@ -108,6 +108,7 @@
   padding: 10px 20px;
   font-weight: bold;
   margin: 15px 0;
+  border-radius: 10px;
 }
 .alert i {
   margin-right: 10px;
